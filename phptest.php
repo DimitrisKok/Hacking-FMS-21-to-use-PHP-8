@@ -15,7 +15,7 @@
     <pre>
 <?php
 // Adjust the include path for the autoloader.php file as per your setup
-set_include_path(get_include_path() . PATH_SEPARATOR . 'C:/Program Files/FileMaker/FileMaker Server/Web Publishing/publishing-engine/php8313');
+set_include_path(get_include_path() . PATH_SEPARATOR . 'C:/Program Files/FileMaker/FileMaker Server/Web Publishing/publishing-engine/php');
 require 'autoloader.php';
 
 // Define missing CURLOPT constants if they aren't already defined
