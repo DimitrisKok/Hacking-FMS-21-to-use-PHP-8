@@ -1,6 +1,8 @@
 This guide walks you through configuring PHP 8.3 with FileMaker Server 21 on Windows,
 covering installation, IIS FastCGI setup, essential php.ini adjustments,
-environment variables, and testing with the AirMoi PHP FileMaker API.
+environment variables, and testing with the AirMoi PHP FileMaker API
+https://github.com/airmoi/FileMaker
+
 By following these steps, you’ll enable robust custom web publishing capabilities,
 optimized for compatibility and security.
 
